@@ -12,7 +12,7 @@ The following skills are required to solve this project
 
 ## Link
 
-The link to my solution is [My Solution](#)
+The link to my solution is [My Solution](https://josewebdev2000.github.io/odin-recipes/)
 
 ## References
 
